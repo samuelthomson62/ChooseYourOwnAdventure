@@ -1,0 +1,7 @@
+C:\Users\Sam\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe.config
+C:\Users\Sam\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe
+C:\Users\Sam\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.pdb
+C:\Users\Sam\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.csprojAssemblyReference.cache
+C:\Users\Sam\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.exe
+C:\Users\Sam\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.pdb
