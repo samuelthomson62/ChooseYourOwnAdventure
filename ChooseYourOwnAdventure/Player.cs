@@ -11,5 +11,9 @@ namespace ChooseYourOwnAdventure
         public double Health { get; set; }
         public string Name { get; set; }
         public string Weapon { get; set; }
+        public Player()
+        {
+
+        }
     }
 }
